@@ -88,7 +88,3 @@ This project included a group effort from Sheng Gao, Yuvraj Kabra, Nirav Metha, 
 We would like to thank you for reading this file and gowing through our project.
 
 ---
-
-## License
-
-MIT
